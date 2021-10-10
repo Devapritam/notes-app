@@ -66,6 +66,7 @@ body {
     font-family: inherit;
     background-color: white;
     font-size: 1.1rem;
+    overflow-y: auto !important;
 }
 
 .note .hidden{
